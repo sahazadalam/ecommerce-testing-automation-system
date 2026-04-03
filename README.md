@@ -82,6 +82,10 @@ npm run dev
 * Followed real-world QA practices and workflows
 
 ---
+👨‍💻 Author
+
+Sahazad Alam Ansiri
+📧 sahazadalam02@gmail.com
 
 ## 🎯 Conclusion
 
